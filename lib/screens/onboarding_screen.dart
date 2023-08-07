@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:onboarding_screen/screens/styles.dart';
 
-
-import '../utilities/styles.dart';
 
 class OnboardingScreen extends StatefulWidget {
   @override
