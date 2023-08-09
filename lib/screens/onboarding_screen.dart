@@ -4,6 +4,17 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:onboarding_screen/screens/styles.dart';
 
 
+
+
+
+
+
+
+
+
+
+
+
 class OnboardingScreen extends StatefulWidget {
   @override
   _OnboardingScreenState createState() => _OnboardingScreenState();
